@@ -13,7 +13,7 @@ To run the project locally, follow these steps:
 2. Open the project directory in your code editor.
 3. Run a local server (e.g., using VS Code's Live Server extension) to preview the website.
 
-[Watch the demo video](https://vimeo.com/user219921877) 
+[Watch the demo video](https://vimeo.com/948267775) 
 
 ## License
 
