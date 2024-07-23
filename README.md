@@ -7,7 +7,7 @@ I completed an HTML-CSS bootcamp course in my free time during the semester as p
 Currently, it is a static web project that uses HTML and CSS, with the addition of JavaScript for implementing gradient effects.
 The Max Finance website is a frontend project aimed at showcasing Max's payments infrastructure solutions to potential users and clients. 
 
-## Screenshot
+## Screenshots
 
 ![Max Finance Screenshot](Screenshot1.png)
 ![Max Finance Screenshot](Screenshot2.png)
